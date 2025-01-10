@@ -4,7 +4,7 @@ Submitted by: **Bakri Diyaolu**
 
 **SM Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **20** hours spent in total
+Time spent: **60** hours spent in total
 
 ## Required Features
 
@@ -17,28 +17,27 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ ] Search bar that facilitates real-time search
+* [ ] Properly aligned search bar with the filters
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='https://www.loom.com/share/109ecae8e0794a4ab51ca996a1eeeafe?sid=a36e5062-0d68-45d5-8511-861f4a4fc052' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<a src='https://www.loom.com/share/109ecae8e0794a4ab51ca996a1eeeafe?sid=a36e5062-0d68-45d5-8511-861f4a4fc052' width=''>Video Walkthrough</a>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+LOOM
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
+Challenges....
+* [ ] CSS (Explains itself (Deep tears in me))
+* [ ] Good ol' responsiveness 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [yyyy] [Bakri-Igtm]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
