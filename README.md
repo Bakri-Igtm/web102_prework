@@ -37,7 +37,7 @@ Challenges....
 * [ ] Good ol' responsiveness 
 ## License
 
-    Copyright [yyyy] [Bakri-Igtm]
+    Copyright [2025] [Bakri-Igtm]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
